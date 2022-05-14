@@ -1,10 +1,10 @@
 - ### Hey, what's up? 
-- 
+
 - 🌱 I’m currently studying Computer Engingeering & Physics
-- 👀 I’m interested in computation physics and quantum computing. 
+- 👀 I’m interested in computational physics and quantum computing. 
 - 🔭 Currently working on a project involving the hydrogen wavefunction in python.
 - 🏀 A Brooklyn Nets fan (don't hate me). 
-- 💬 Ask me about anual cars, Chess, and Astronomy
+- 💬 Ask me about manual cars, Chess, and Astronomy
 - ✉️ My linkedin is: https://www.linkedin.com/in/akhilvreddy/
 - 📫 Feel free to reach me at **avr54@scarletmail.rutgers.edu**
 
