@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Akhil</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 ## Here's a bit about me:  
 
 - 🌱 I’m currently studying Computer Engingeering & Physics
