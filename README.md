@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Akhil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akhil</h1>
+<h3 align="center">I'm a passionate Computer Engineering undergraduate.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ## Here's a bit about me:  
 
