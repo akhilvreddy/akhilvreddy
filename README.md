@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Computer Engineering undergraduate.</h3>
 
 
-## Here's a bit about me:  
+## ⚡ Here's a bit about me:  
 
 - 🌱 I’m currently studying Computer Engingeering & Physics
 - 👀 I’m interested in computational physics, quantum computing, and signal processing. 
