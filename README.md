@@ -4,7 +4,7 @@
 
 ## ⚡ Here's a bit about me:  
 
-- 🌱 I’m currently studying Computer Engingeering & Physics
+- 🌱 I’m currently studying Computer Engineering & Physics
 - 👀 I’m interested in computational physics, quantum computing, and signal processing. 
 - 🔭 Currently working on a project involving the hydrogen wavefunction in python.
 - 🏀 A Brooklyn Nets fan (don't hate me). 
