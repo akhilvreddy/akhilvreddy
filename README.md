@@ -38,7 +38,7 @@
     <a href = "https://twitter.com/akhilreddy77"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     <a href = "https://www.instagram.com/akhilrn77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-    <a href = "https://www.youtube.com/"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/discordv1.png"/></a>
+    <a href = "https://www.youtube.com/"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/discordv2.png"/></a>
     <a href = "https://www.youtube.com/"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/spotifyv1.png"/></a>
     <a href = "https://www.youtube.com/"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/berealv1.png"/></a>
   
