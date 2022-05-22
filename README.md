@@ -13,7 +13,8 @@
 - 📫 Feel free to reach me at **akhil.reddy@rutgers.edu**
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=akhilvreddy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=akhilvreddy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="450">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=akhilvreddy&theme=highcontrast&hide_border=true" width="450" /></a>
 </p>
   
 ## 🚀 Languages and Tools:
