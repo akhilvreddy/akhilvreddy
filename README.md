@@ -41,6 +41,7 @@
     <a href = "https://discord.com/users/750877899740938260"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/discordv2.png"/></a>
     <a href = "https://open.spotify.com/user/akhilr77?si=mZMjqUZ6Tg-0cHA6XB6rrA"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/spotifyv1.png"/></a>
     <a href = "https://bere.al/akhilr77"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/berealv1.png"/></a>
+    <a href = "https://medium.com/@avr54"><img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/mediumv1.png"/></a>
   
 </p>
 
