@@ -1,10 +1,13 @@
+<!---
+
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Akhil</h1>
 <h3 align="center">I'm a passionate Computer Engineering undergraduate.</h3>
 
 <p align="center"> 
-  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="250">
+  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="50">
 </p>
 
+---!>
 
 ## ⚡ Here's a bit about me:  
 
