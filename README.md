@@ -15,6 +15,7 @@ I've primarily used Java and Python throughout my life and am familiar with many
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=akhilvreddy&theme=highcontrast&hide_border=true" width="400" /></a>
 </p>
   
+<!--  
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
@@ -27,9 +28,9 @@ I've primarily used Java and Python throughout my life and am familiar with many
     <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/icons8-matlab-48.png"/> </a>
     <a href="https://www.wolfram.com/mathematica/"> <img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/mathematicav0%20(1).png"/> </a> 
     
-  <!--
+  
     <a href="https://www.autodesk.com/products/autocad/overview"> <img src="https://github.com/akhilvreddy/akhilvreddy/blob/main/autocadv1.png"/> </a> 
-  -->
+ 
    
 </p>
 
