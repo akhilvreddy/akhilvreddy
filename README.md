@@ -1,23 +1,14 @@
-<!---
+
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Akhil</h1>
-<h3 align="center">I'm a passionate Computer Engineering undergraduate.</h3>
 
-<p align="center"> 
-  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="50">
-</p>
+I'm studying Computer Engineering at Rutgers University. I'm currently seeking internships for Spring or Summer 2023 in Software Engineering, Data Science, or other related roles. If you think I'd be a good fit for your company, please feel free to reach out to me by email or social media (links below)!
 
----!>
+I've primarily used Java and Python throughout my life and am familiar with many tools and technologies. I am also a motivated individual who can quickly learn and apply brand-new concepts 
 
-## ⚡ Here's a bit about me:  
+<a href="mailto:avr54@scarletmail.rutgers.edu">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/akhilvreddy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-- 🌱 I’m currently studying Computer Engineering & Physics at [Rutgers University](https://www.rutgers.edu/)
-- 👀 I’m interested in computational physics, quantum computing, and signal processing. 
-- 🔭 Currently working on a project involving the hydrogen wavefunction in python.
-- 🏀 A Brooklyn Nets fan (don't hate me). 
-- 💬 Ask me about manual cars, Chess, and Astronomy
-- ✉️ My linkedin is: https://www.linkedin.com/in/akhilvreddy/
-- 📫 Feel free to reach me at **akhil.reddy@rutgers.edu**
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=akhilvreddy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="400">
