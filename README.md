@@ -16,6 +16,14 @@ I've primarily used Java, Python, and C throughout my life and am familiar with 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=akhilvreddy&theme=highcontrast&hide_border=true" width="400" /></a>
 </p>
   
+ ### My Tech Stack:  
+ <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
+ <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
+ <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</a> 
+ <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
+ <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
+ 
+ 
 <!--  
 ## 🚀 Languages and Tools:
 
