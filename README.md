@@ -23,6 +23,7 @@ I've primarily used Java, Python, and C throughout my life and am familiar with 
  <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
  <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
  
+ ![](https://komarev.com/ghpvc/?username=akhilvreddy)
  
 <!--  
 ## 🚀 Languages and Tools:
