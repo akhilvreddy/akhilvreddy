@@ -11,10 +11,12 @@ I've primarily used Java, Python, and C throughout my life and am familiar with 
 <a href="https://www.instagram.com/akhilrn77/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
+<!---
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=akhilvreddy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" width="400">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=akhilvreddy&theme=highcontrast&hide_border=true" width="400" /></a>
 </p>
+--->
   
  ### My Tech Stack:  
  <a href="https://www.instagram.com/akhilrn77/">![Medium](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
