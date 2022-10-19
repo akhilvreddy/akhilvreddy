@@ -2,9 +2,7 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Akhil</h1>
 
-I'm studying Computer Engineering at Rutgers University with a minor in Math. I'm currently seeking internships for Spring or Summer 2023 in Software Engineering, Data Science, or other related roles.
-
-I've primarily used Java, Python, and C throughout my life and am familiar with many tools and technologies. I am also a motivated individual who can quickly learn and apply brand-new concepts 
+I'm studying Computer Engineering at Rutgers University with a minor in Math. 
 
 <a href="mailto:avr54@scarletmail.rutgers.edu">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/akhilvreddy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
