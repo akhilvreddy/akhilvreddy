@@ -1,4 +1,4 @@
-backpropogating my way through life
+backpropagating my way through life
 
 
 <!---
